@@ -6,8 +6,8 @@
 
 
 $server = "localhost";
-$user = "root";
-$pass = "clave";
+$user = "";
+$pass = "";
 $bd = "guitarras";
 
 //Creamos la conexión
